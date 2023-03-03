@@ -1,0 +1,8 @@
+gitignore.io:
+    - Ruby
+    - direnv
+    - xcode
+
+paths-ignore:
+    - hogehoge
+
